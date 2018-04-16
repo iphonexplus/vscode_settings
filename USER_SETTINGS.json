@@ -1,0 +1,26 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 18,
+    "git.enableSmartCommit": true,
+    "files.associations": {
+        "*.vue": "vue"
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": true,
+    "[vue]": {},
+    "editor.tabSize": 2,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        {
+            "language": "html",
+            "autoFix": true
+        },
+        {
+            "language": "vue",
+            "autoFix": true
+        }
+    ]
+}
